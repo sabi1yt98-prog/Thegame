@@ -1,0 +1,1188 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+    <External>null</External>
+    <External>nil</External>
+    <Item class="Model" referent="RBX_RootModel">
+        <Properties>
+            <string name="Name">notun.notun</string>
+        </Properties>
+        
+        <Item class="Part" referent="RBX_Part_1">
+            <Properties>
+                <string name="Name">Wheel_rim001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>1.030</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_1">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_2">
+            <Properties>
+                <string name="Name">Door_panel</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.100</X>
+                    <Y>-0.770</Y>
+                    <Z>1.030</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_2">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_3">
+            <Properties>
+                <string name="Name">Rear_deck</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.450</X>
+                    <Y>0.000</Y>
+                    <Z>1.080</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_3">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_4">
+            <Properties>
+                <string name="Name">Hub003</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.420</X>
+                    <Y>1.040</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_4">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_5">
+            <Properties>
+                <string name="Name">Headlight</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-2.120</X>
+                    <Y>-0.630</Y>
+                    <Z>1.120</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_5">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_6">
+            <Properties>
+                <string name="Name">Hub</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>-1.040</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_6">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_7">
+            <Properties>
+                <string name="Name">Low_poly_tire</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>-1.020</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_7">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_8">
+            <Properties>
+                <string name="Name">Side_window001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.050</X>
+                    <Y>0.770</Y>
+                    <Z>1.480</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_8">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_9">
+            <Properties>
+                <string name="Name">Roof</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.050</X>
+                    <Y>0.000</Y>
+                    <Z>1.780</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_9">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_10">
+            <Properties>
+                <string name="Name">Door_panel001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.100</X>
+                    <Y>0.770</Y>
+                    <Z>1.030</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_10">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_11">
+            <Properties>
+                <string name="Name">Side_skirt001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.050</X>
+                    <Y>0.770</Y>
+                    <Z>0.520</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_11">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_12">
+            <Properties>
+                <string name="Name">Low_poly_tire002</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.420</X>
+                    <Y>-1.020</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_12">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_13">
+            <Properties>
+                <string name="Name">Wheel_rim</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>-1.030</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_13">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_14">
+            <Properties>
+                <string name="Name">Rear_lamp</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>2.120</X>
+                    <Y>-0.680</Y>
+                    <Z>1.080</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_14">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_15">
+            <Properties>
+                <string name="Name">Hub001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>1.040</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_15">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_16">
+            <Properties>
+                <string name="Name">Hub002</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.420</X>
+                    <Y>-1.040</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_16">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_17">
+            <Properties>
+                <string name="Name">Mirror001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-0.650</X>
+                    <Y>0.862</Y>
+                    <Z>1.420</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_17">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_18">
+            <Properties>
+                <string name="Name">Rear_lamp001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>2.120</X>
+                    <Y>0.680</Y>
+                    <Z>1.080</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_18">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_19">
+            <Properties>
+                <string name="Name">Front_intake001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-2.180</X>
+                    <Y>0.410</Y>
+                    <Z>0.580</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_19">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_20">
+            <Properties>
+                <string name="Name">Side_skirt</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.050</X>
+                    <Y>-0.770</Y>
+                    <Z>0.520</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_20">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_21">
+            <Properties>
+                <string name="Name">Rear_glass</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.830</X>
+                    <Y>0.000</Y>
+                    <Z>1.470</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_21">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_22">
+            <Properties>
+                <string name="Name">Mirror</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-0.650</X>
+                    <Y>-0.862</Y>
+                    <Z>1.420</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_22">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_23">
+            <Properties>
+                <string name="Name">Main_chassis</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.000</X>
+                    <Y>0.000</Y>
+                    <Z>0.720</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_23">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_24">
+            <Properties>
+                <string name="Name">Wheel_rim002</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.420</X>
+                    <Y>-1.030</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_24">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_25">
+            <Properties>
+                <string name="Name">Headlight001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-2.120</X>
+                    <Y>0.630</Y>
+                    <Z>1.120</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_25">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_26">
+            <Properties>
+                <string name="Name">Windshield</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-0.780</X>
+                    <Y>0.000</Y>
+                    <Z>1.470</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_26">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_27">
+            <Properties>
+                <string name="Name">Spoiler_support001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.850</X>
+                    <Y>0.550</Y>
+                    <Z>1.500</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_27">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_28">
+            <Properties>
+                <string name="Name">Front_hood</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>0.000</Y>
+                    <Z>1.050</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_28">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_29">
+            <Properties>
+                <string name="Name">Side_window</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>0.050</X>
+                    <Y>-0.770</Y>
+                    <Z>1.480</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_29">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_30">
+            <Properties>
+                <string name="Name">Low_poly_tire001</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-1.420</X>
+                    <Y>1.020</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_30">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_31">
+            <Properties>
+                <string name="Name">Front_intake</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-2.180</X>
+                    <Y>-0.410</Y>
+                    <Z>0.580</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_31">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_32">
+            <Properties>
+                <string name="Name">Low_poly_tire003</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.420</X>
+                    <Y>1.020</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_32">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_33">
+            <Properties>
+                <string name="Name">Spoiler_support</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.850</X>
+                    <Y>-0.550</Y>
+                    <Z>1.500</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_33">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_34">
+            <Properties>
+                <string name="Name">Front_splitter</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-2.250</X>
+                    <Y>0.000</Y>
+                    <Z>0.340</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_34">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_35">
+            <Properties>
+                <string name="Name">Wheel_rim003</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.420</X>
+                    <Y>1.030</Y>
+                    <Z>0.550</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_35">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_36">
+            <Properties>
+                <string name="Name">Rear_spoiler</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>1.950</X>
+                    <Y>0.000</Y>
+                    <Z>1.780</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_36">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_37">
+            <Properties>
+                <string name="Name">Rear_bumper</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>2.180</X>
+                    <Y>0.000</Y>
+                    <Z>0.600</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_37">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+        <Item class="Part" referent="RBX_Part_38">
+            <Properties>
+                <string name="Name">Front_bumper</string>
+                <bool name="Anchored">true</bool>
+                <bool name="CanCollide">true</bool>
+                <Vector3 name="Size">
+                    <X>2.000</X>
+                    <Y>2.000</Y>
+                    <Z>2.000</Z>
+                </Vector3>
+                <CoordinateFrame name="CFrame">
+                    <X>-2.180</X>
+                    <Y>0.000</Y>
+                    <Z>0.580</Z>
+                    <R00>1</R00><R01>0</R01><R02>0</R02>
+                    <R10>0</R10><R11>1</R11><R12>0</R12>
+                    <R20>0</R20><R21>0</R21><R22>1</R22>
+                </CoordinateFrame>
+            </Properties>
+            <Item class="SpecialMesh" referent="RBX_Mesh_38">
+                <Properties>
+                    <token name="MeshType">5</token>
+                    <string name="Name">Mesh</string>
+                    <Vector3 name="Scale">
+                        <X>1.000</X>
+                        <Y>1.000</Y>
+                        <Z>1.000</Z>
+                    </Vector3>
+                </Properties>
+            </Item>
+        </Item>
+    </Item>
+</roblox>
